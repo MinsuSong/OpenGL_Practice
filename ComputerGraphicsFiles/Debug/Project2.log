@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(Project2.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  Practice29.cpp
+c:\users\minsu\source\repos\project2\project2\cgmath.h(23): warning C4201: 비표준 확장이 사용됨: 구조체/공용 구조체의 이름이 없습니다.
+c:\users\minsu\source\repos\project2\project2\cgmath.h(24): warning C4201: 비표준 확장이 사용됨: 구조체/공용 구조체의 이름이 없습니다.
+c:\users\minsu\source\repos\project2\project2\practice29.cpp(27): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+c:\users\minsu\source\repos\project2\project2\practice29.cpp(80): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\minsu\source\repos\project2\project2\practice29.cpp(127): warning C4100: 'eTime': 참조되지 않은 정식 매개 변수입니다.
+c:\users\minsu\source\repos\project2\project2\practice29.cpp(133): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\minsu\source\repos\project2\project2\practice29.cpp(134): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\minsu\source\repos\project2\project2\practice29.cpp(139): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\minsu\source\repos\project2\project2\practice29.cpp(140): warning C4244: '=': 'int'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\minsu\source\repos\project2\project2\practice29.cpp(163): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\minsu\source\repos\project2\project2\practice29.cpp(164): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\minsu\source\repos\project2\project2\practice29.cpp(170): warning C4100: 'y': 참조되지 않은 정식 매개 변수입니다.
+c:\users\minsu\source\repos\project2\project2\practice29.cpp(170): warning C4100: 'x': 참조되지 않은 정식 매개 변수입니다.
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\gl\freeglut_std.h(627): warning C4505: 'glutCreateMenu_ATEXIT_HACK': 참조되지 않은 지역 함수를 제거했습니다.
+  Project2.vcxproj -> C:\Users\Minsu\source\repos\Project2\Debug\ComputerGraphics.exe
